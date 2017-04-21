@@ -6,7 +6,7 @@ The purpose of this exercise is to have a starting point for discussion during a
 
 You are free to use any programming language.
 
-Feel free to email [tbartlemess@marketcircle.com](mailto:tbartelmess@marketcircle.com) if you have any questions.
+Feel free to email [tbartelmess@marketcircle.com](mailto:tbartelmess@marketcircle.com) if you have any questions.
 
 
 ## Coding Exercise
